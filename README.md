@@ -19,8 +19,8 @@
 <img src="php.png" width=60px><img src="python.png" width=60px><img src="java.png" width=60px>
 
 ## Stat
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=Monokai" alt="top-langs"/><br>
-<img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=Monokai&show_icons=true" alt="github-stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=monokai" alt="top-langs"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=monokai&show_icons=true" alt="github-stats"/>
 
 <!---
 LootSpace369/LootSpace369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
