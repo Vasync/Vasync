@@ -2,10 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("LET+ME+COOK+🐧"))](.)
 
 ## About Me
+<h1>
 - 👉vocative: he/him
 - 📫 How to reach me?: please message me
 - ⚡ Fun fact: don't ask me because I don't know how to code🐧
 - 🕑 Working time: all day
+</h1>
 
 ## Information
 <a href="https://discord.com/invite/rFPWq8fV">
