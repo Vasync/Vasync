@@ -2,12 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("LET+ME+COOK+🐧"))](.)
 
 ## About Me
-<h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+👉+Vocative:+he/him)](.)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+📫+How+to+reach+me?:+please message+me)](.)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+⚡+Fun+fact:+don't+ask+me+I don't+know+how+to+code🐧)](.)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+🕑+Working+time:+all+day)](.)
-</h1>
 
 ## Information
 <a href="https://discord.com/invite/rFPWq8fV">
