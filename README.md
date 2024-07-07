@@ -3,8 +3,8 @@
 
 ## About Me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+👉+Vocative:+he/him)](.)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+📫+How+to+reach+me?:+please message+me)](.)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+⚡+Fun+fact:+don't+ask+me+I don't+know+how+to+code🐧)](.)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+📫+How+to+reach+me?:+please+message+me)](.)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+⚡+Fun+fact:+don't+ask+me+I+don't+know+how+to+code🐧)](.)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+🕑+Working+time:+all+day)](.)
 
 ## Information
