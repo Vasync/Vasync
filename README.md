@@ -15,7 +15,7 @@
 </a>
 
 ## Language
-<img src="php.png" width=30px><img src="python.png" width=30px><img src="java.png" width=30px>
+<img src="php.png" width=60px><img src="python.png" width=60px><img src="java.png" width=60px>
   
 <!---
 LootSpace369/LootSpace369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
