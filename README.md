@@ -3,10 +3,10 @@
 
 ## About Me
 <h1>
-- 👉vocative: he/him
-- 📫 How to reach me?: please message me
-- ⚡ Fun fact: don't ask me because I don't know how to code🐧
-- 🕑 Working time: all day
+- 👉vocative: he/him<br>
+- 📫 How to reach me?: please message me<br>
+- ⚡ Fun fact: don't ask me because I don't know how to code🐧<br>
+- 🕑 Working time: all day<br>
 </h1>
 
 ## Information
