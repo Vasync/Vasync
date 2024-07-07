@@ -2,10 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("LET+ME+COOK+🐧"))](.)
 
 ## About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+👉+Vocative:+he/him)](.)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+📫+How+to+reach+me?:+please+message+me)](.)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+⚡+Fun+fact:+don't+ask+me+I+don't+know+how+to+code🐧)](.)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=•+🕑+Working+time:+all+day)](.)
+<a color="aqua">
+• 👉 Vocative: he/him<br>
+• 📫 How to reach me?:please message me<br>
+• ⚡ Fun fact: don't ask me i don't know how to code🐧<br>
+• 🕑 Working time: all day<br>
+</a>
 
 ## Information
 <a href="https://discord.com/invite/rFPWq8fV">
@@ -16,7 +18,7 @@
 </a>
 
 ## Language
-<img src="php.png" width=60px><img src="python.png" width=60px><img src="java.png" width=60px>
+<img src="php.png" width=60px> <img src="python.png" width=60px> <img src="java.png" width=60px>
 
 ## Stat
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs"/><br>
