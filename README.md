@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @LootSpace369🌴
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("Let+me+cook"))](.)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("LET+ME+COOK+🐧"))](.)
 
 ## About Me
 - 👉vocative: he/him
@@ -19,8 +19,8 @@
 <img src="php.png" width=60px><img src="python.png" width=60px><img src="java.png" width=60px>
 
 ## Stat
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=dreams" alt="top-langs"/><br>
-<img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=dreams&show_icons=true" alt="github-stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=dracula" alt="top-langs"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=dracula&show_icons=true" alt="github-stats"/>
 
 <!---
 LootSpace369/LootSpace369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
