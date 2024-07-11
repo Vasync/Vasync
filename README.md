@@ -6,7 +6,7 @@
 <a>
 • 👉 Vocative: he/him<img src="php.png" align="right" height=50px/><br>
 • 📫 How to reach me?:please message me<img src="java.png" align="right" height=50px/><br>
-• ⚡ Fun fact: don't ask me i don't know how to code🐧       <img src="python.png" align="right" height=50px/><br>
+• ⚡ Fun fact: don't ask me i don't know how to code🐧               <img src="python.png" align="right" height=50px/><br>
 • 🕑 Working time: all day<br>
 </a>
 </div>
