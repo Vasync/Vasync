@@ -12,6 +12,7 @@
   <img src="php.png" height=50px/>
   <img src="java.png" height=50px/>
   <img src="python.png" height=50px/>
+  <br>
 <a href="https://discord.com/invite/rFPWq8fV">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height=36px/>
   </a>
