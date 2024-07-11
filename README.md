@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @LootSpace369🌴
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("LET+ME+COOK+🐧"))](.)
 <a>
-• 👉 Vocative: he/him<br>                                   <img src="php.png" height=52px>
-• 📫 How to reach me?:please message me<br>                 <img src="java.png" height=52px>
-• ⚡ Fun fact: don't ask me i don't know how to code🐧<br>  <img src="python.png" height=52px>
+• 👉 Vocative: he/him<br>                                   <img src="php.png" height=42px>
+• 📫 How to reach me?:please message me<br>                 <img src="java.png" height=42px>
+• ⚡ Fun fact: don't ask me i don't know how to code🐧<br>  <img src="python.png" height=42px>
 • 🕑 Working time: all day<br>
 </a>
 <a href="https://discord.com/invite/rFPWq8fV">
