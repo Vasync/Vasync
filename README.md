@@ -1,13 +1,15 @@
 # 👋 Hi, I’m @LootSpace369🌴
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("LET+ME+COOK+🐧"))](.)
 
-<div align="right"><img src="php.png" height=50px><img src="java.png" height=50px><img src="python.png" height=50px></div>
+<div align="right"><img src="php.png" height=50px><br><img src="java.png" height=50px><br></bt><img src="python.png" height=50px></div>
+<div align="center">
 <a>
 • 👉 Vocative: he/him<br>
 • 📫 How to reach me?:please message me<br>
 • ⚡ Fun fact: don't ask me i don't know how to code🐧<br>
 • 🕑 Working time: all day<br>
 </a>
+</div>
 <a href="https://discord.com/invite/rFPWq8fV">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height=36px/>
   </a>
