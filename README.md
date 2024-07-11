@@ -12,14 +12,15 @@
   <img src="php.png" height=50px/>
   <img src="java.png" height=50px/>
   <img src="python.png" height=50px/>
-</div>
 <a href="https://discord.com/invite/rFPWq8fV">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height=36px/>
   </a>
 <a href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL">
   <img src="https://img.shields.io/badge/Facebook-0072b1?style=for-the-badge&logo=facebook&logoColor=dark" alt="Facebook Badge" height=36px/>
 </a>
-<br><img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=algolia&show_icons=true&hide_border=true" alt="github-stats" height=115px/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs"/>
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=algolia&show_icons=true&hide_border=true" alt="github-stats" height=115px/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs"/>
 <img src="https://github-profile-trophy.vercel.app/?username=LootSpace369&theme=algolia&hide_border=true"/>
 
 ## Repository
