@@ -24,8 +24,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=algolia&show_icons=true&hide_border=true" alt="github-stats" height=115px/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs"/>
 <img src="https://github-profile-trophy.vercel.app/?username=LootSpace369&theme=algolia"/>
 
-## Favorite repository
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LootSpace369&repo=VaniMMo&cache_seconds=86400&theme=algolia">
+## Repository
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LootSpace369&repo=VaniMMo&cache_seconds=86400&theme=algolia" height=128px><img src="https://github-readme-stats.vercel.app/api/pin/?username=LootSpace369&repo=HardMath&cache_seconds=86400&theme=algolia" height=128px> 
 <!---
 LootSpace369/LootSpace369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
