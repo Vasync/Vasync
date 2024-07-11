@@ -4,9 +4,9 @@
 ## 🌟 About me
 <div align="left">
 <a>
-• 👉 Vocative: he/him<img src="php.png" height=50px/>
-• 📫 How to reach me?:please message me<img src="java.png" height=50px/>
-• ⚡ Fun fact: don't ask me i don't know how to code🐧<img src="python.png" height=50px/>
+• 👉 Vocative: he/him<img src="php.png" height=50px/><br>
+• 📫 How to reach me?:please message me<img src="java.png" height=50px/><br>
+• ⚡ Fun fact: don't ask me i don't know how to code🐧<img src="python.png" height=50px/><br>
 • 🕑 Working time: all day<br>
 </a>
 </div>
