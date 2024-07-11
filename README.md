@@ -15,7 +15,7 @@
 </a>
 
 <img src="php.png" height=50px><img src="java.png" height=50px><img src="python.png" height=50px>
-<br><center><img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=algolia&show_icons=true&hide_border=true" alt="github-stats" height=115px/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs"/></center>
+<br><center><img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=algolia&show_icons=true&hide_border=true" alt="github-stats" height=100px/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs"/></center>
 <img src="https://github-profile-trophy.vercel.app/?username=LootSpace369&theme=algolia"/>
 
 ## Repository
