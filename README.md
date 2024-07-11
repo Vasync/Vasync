@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @LootSpace369🌴
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("LET+ME+COOK+🐧"))](.)
 
-<div align><img src="php.png" height=50px><img src="java.png" height=50px><img src="python.png" height=50px></div>
+<div align="right"><img src="php.png" height=50px><img src="java.png" height=50px><img src="python.png" height=50px></div>
 <a>
 • 👉 Vocative: he/him<br>
 • 📫 How to reach me?:please message me<br>
