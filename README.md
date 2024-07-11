@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("LET+ME+COOK+🐧"))](.)
 
 <a>
-• 👉 Vocative: he/him                                 <img src="php.png" height=38px><br>
-• 📫 How to reach me?:please message me               <img src="java.png" height=38px><br>
-• ⚡ Fun fact: don't ask me i don't know how to code🐧<img src="python.png" height=38px><br>
+• 👉 Vocative: he/him                                 <img src="php.png" height=32px><br>
+• 📫 How to reach me?:please message me               <img src="java.png" height=32px><br>
+• ⚡ Fun fact: don't ask me i don't know how to code🐧<img src="python.png" height=32px><br>
 • 🕑 Working time: all day<br>
 </a>
 <a href="https://discord.com/invite/rFPWq8fV">
