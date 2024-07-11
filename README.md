@@ -4,9 +4,13 @@
 ## 🌟 About me
 <div align="left">
 <a>
-• 👉 Vocative: he/him<img src="php.png" height=50px/><br>• 📫 How to reach me?:please message me<img src="java.png" height=50px/><br>• ⚡ Fun fact: don't ask me i don't know how to code🐧<img src="python.png" height=50px/><br>
-• 🕑 Working time: all day<br>
+• 👉 Vocative: he/him<br>• 📫 How to reach me?:please message me<br>• ⚡ Fun fact: don't ask me i don't know how to code🐧<br>• 🕑 Working time: all day<br>
 </a>
+</div>
+<div align="center">
+  <img src="php.png" height=50px/>
+  <img src="java.png" height=50px/>
+  <img src="python.png" height=50px/>
 </div>
 <a href="https://discord.com/invite/rFPWq8fV">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height=36px/>
