@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @LootSpace369🌴
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("LET+ME+COOK+🐧"))](.)
-<img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=algolia&show_icons=true&hide_border=true" alt="github-stats" height=100px/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=algolia&show_icons=true&hide_border=true" alt="github-stats" height=100px/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs" height=100px/>
 <img src="https://github-profile-trophy.vercel.app/?username=LootSpace369&theme=algolia" height=100px/>
 
 ## About Me
