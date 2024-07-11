@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @LootSpace369🌴
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("LET+ME+COOK+🐧"))](.)
+<img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=algolia&show_icons=true&hide_border=true" alt="github-stats" height=115px/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LootSpace369&theme=algolia"/>
 
 ## About Me
 <a color="aqua">
@@ -14,11 +16,7 @@
 <a href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL">
   <img src="https://img.shields.io/badge/Facebook-0072b1?style=for-the-badge&logo=facebook&logoColor=dark" alt="Facebook Badge"/>
 </a>
-<img src="php.png" width=60px> <img src="python.png" width=60px> <img src="java.png" width=60px>
-
-## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=algolia&show_icons=true&hide_border=true" alt="github-stats" height=115px/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs"/>
-<img src="https://github-profile-trophy.vercel.app/?username=LootSpace369&theme=algolia"/>
+<img src="php.png" width=40px> <img src="python.png" width=40px> <img src="java.png" width=40px>
 
 ## Repository
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LootSpace369&repo=VaniMMo&cache_seconds=86400&theme=algolia" height=80px><img src="https://github-readme-stats.vercel.app/api/pin/?username=LootSpace369&repo=HardMath&cache_seconds=86400&theme=algolia" height=80px> 
