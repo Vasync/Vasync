@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @LootSpace369🌴
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("LET+ME+COOK+🐧"))](.)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=%26AREe6w-ng%20l%26AOA-m%20tr%26AOE-i%20tim%20anh%20%26ARE-auuuuuuuuuuuuu)](.)
 
 ## 🌟 About me
 <div align="left">
