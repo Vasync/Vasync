@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @LootSpace369🌴
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=%26AREe6w-ng%20l%26AOA-m%20tr%26AOE-i%20tim%20anh%20%26ARE-auuuuuuuuuuuuu)](.)
 
+![Visitor Count](https://profile-counter.glitch.me/Sunch233/count.svg)
+
 ## 🌟 About me
 <div align="left">
 <a>
@@ -13,7 +15,6 @@
   <img src="java.png" height=50px/>
   <img src="python.png" height=50px/>
   <br>
-  <img src="tải xuống (9).png" height=150px/>
   <br>
 <a href="https://discord.com/invite/rFPWq8fV">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height=36px/>
