@@ -3,6 +3,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/LootSpace369/count.svg)
 
+<img src="pocketmine.gif">
+
 ## 🌟 About me
 <div align="left">
 <a>
