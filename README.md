@@ -28,6 +28,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=algolia&show_icons=true&hide_border=true" alt="github-stats" height=115px/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs"/>
 <img src="https://github-profile-trophy.vercel.app/?username=LootSpace369&theme=algolia&hide_border=true"/>
+
+Projects I did with my friends:
+<a href="https://github.com/lenlenlL6/Caught-The-Lodestone">Caught The Lodestone</a>
+
 <!---
 LootSpace369/LootSpace369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
