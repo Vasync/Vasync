@@ -4,7 +4,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/LootSpace369/count.svg)
 
-<img src="pocketmine.gif">
+<img src="pocketmine.gif" height=300px align="center"/>
 
 <h2><img src="boost.gif" height=30px>About me</h2>
 <div align="left">
