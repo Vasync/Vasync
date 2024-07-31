@@ -1,11 +1,12 @@
-# 👋 Hi, I’m @LootSpace369🌴
+<h1><img src="Crown.gif"> Hi, I’m @LootSpace369🌴</h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=LET+ME+COOK+FOR+YOU)](.)
 
 ![Visitor Count](https://profile-counter.glitch.me/LootSpace369/count.svg)
 
 <img src="pocketmine.gif">
 
-## 🌟 About me
+<h2><img src="boost.gif">About me</h2>
 <div align="left">
 <a>
 • 👉 Vocative: he/him<br>• 📫 How to reach me?:please message me<br>• ⚡ Fun fact: don't ask me i don't know how to code🐧<br>• 🕑 Working time: all day<br>
@@ -13,9 +14,14 @@
 </div>
 
 <div align="center">
+  <img src="hutao.gif" height=50px/>
   <img src="php.png" height=50px/>
+  <img src="c++.png" height=50px/>
   <img src="java.png" height=50px/>
   <img src="python.png" height=50px/>
+  <img src="html.png" height= 50px/>
+  <img src="js.png" height=50px/>
+  <img src="css.png" height=50px/>
   <br>
   <br>
 <a href="https://discord.com/invite/rFPWq8fV">
