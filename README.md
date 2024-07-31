@@ -6,7 +6,7 @@
 
 <img src="pocketmine.gif">
 
-<h2><img src="boost.gif">About me</h2>
+<h2><img src="boost.gif" height=30px>About me</h2>
 <div align="left">
 <a>
 • 👉 Vocative: he/him<br>• 📫 How to reach me?:please message me<br>• ⚡ Fun fact: don't ask me i don't know how to code🐧<br>• 🕑 Working time: all day<br>
