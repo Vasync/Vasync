@@ -1,10 +1,9 @@
-<h1><img src="Crown.gif"> Hi, I’m @LootSpace369🌴</h1>
+<div align="center"><h1><img src="Crown.gif"> Hi, I’m @LootSpace369🌴</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=LET+ME+COOK+FOR+YOU)](.)
 
 ![Visitor Count](https://profile-counter.glitch.me/LootSpace369/count.svg)
 
-<div align="center">
 <img src="pocketmine.gif" width=400px />
 </div>
 
