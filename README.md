@@ -25,10 +25,10 @@
   <br>
   <br>
 <a href="https://discord.com/invite/rFPWq8fV">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height=50px/>
+  <img src="Discord.png" alt="Discord Badge" height=36px/>
   </a>
 <a href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL">
-  <img src="https://img.shields.io/badge/Facebook-0072b1?style=for-the-badge&logo=facebook&logoColor=dark" alt="Facebook Badge" height=36px/>
+  <img src="Facebook.png" alt="Facebook Badge" height=36px/>
 </a>
 </div>
 
