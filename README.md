@@ -1,4 +1,4 @@
-<div align="center"><h1><img src="Crown.gif"> Hi, I’m @LootSpace369🌴</h1>
+<div align="center"><h1><img src="Crown.gif"> Hi, I’m @LootSpace369🌴<img src="hutao.gif" height=50px/></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=LET+ME+COOK+FOR+YOU)](.)
 
@@ -6,13 +6,12 @@
 
 <img src="pocketmine.gif" width=400px />
 
-<h2><img src="boost.gif" height=30px>About me</h2>
+<h2><img src="boost.gif" height=30px>About me<img src="boost.gif" height=30px></h2>
 
 <a>
 • 👉 Vocative: he/him •<br>• 📫 How to reach me?:please message me •<br>• ⚡ Fun fact: don't ask me i don't know how to code🐧 •<br>• 🕑 Working time: all day •<br>
 </a>
 <br>
-  <img src="hutao.gif" height=50px/>
   <img src="php.png" height=50px/>
   <img src="c++.png" height=50px/>
   <img src="java.png" height=50px/>
