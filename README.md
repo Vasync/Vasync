@@ -5,7 +5,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/LootSpace369/count.svg)
 
 <img src="pocketmine.gif" width=400px />
-</div>
 
 <h2><img src="boost.gif" height=30px>About me</h2>
 <div align="left">
@@ -13,8 +12,7 @@
 • 👉 Vocative: he/him<br>• 📫 How to reach me?:please message me<br>• ⚡ Fun fact: don't ask me i don't know how to code🐧<br>• 🕑 Working time: all day<br>
 </a>
 </div>
-
-<div align="center">
+<br>
   <img src="hutao.gif" height=50px/>
   <img src="php.png" height=50px/>
   <img src="c++.png" height=50px/>
@@ -31,11 +29,10 @@
 <a href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL">
   <img src="Facebook.png" alt="Facebook Badge" height=36px style="border-radius: 10px;"/>
 </a>
-</div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=algolia&show_icons=true&hide_border=true" alt="github-stats" height=142px/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs"/>
 <img src="https://github-profile-trophy.vercel.app/?username=LootSpace369&theme=algolia&hide_border=true" height=115px/>
-
+</div>
 Projects I did with my friends:
 <a href="https://github.com/lenlenlL6/Caught-The-Lodestone">Caught The Lodestone</a>
 
