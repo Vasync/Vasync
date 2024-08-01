@@ -7,11 +7,10 @@
 <img src="pocketmine.gif" width=400px />
 
 <h2><img src="boost.gif" height=30px>About me</h2>
-<div align="left">
+
 <a>
-• 👉 Vocative: he/him<br>• 📫 How to reach me?:please message me<br>• ⚡ Fun fact: don't ask me i don't know how to code🐧<br>• 🕑 Working time: all day<br>
+• 👉 Vocative: he/him •<br>• 📫 How to reach me?:please message me •<br>• ⚡ Fun fact: don't ask me i don't know how to code🐧 •<br>• 🕑 Working time: all day •<br>
 </a>
-</div>
 <br>
   <img src="hutao.gif" height=50px/>
   <img src="php.png" height=50px/>
@@ -24,10 +23,10 @@
   <br>
   <br>
 <a href="https://discord.com/invite/rFPWq8fV">
-  <img src="Discord.png" alt="Discord Badge" height=36px style="border-radius: 10px;"/>
+  <img src="Discord.png" alt="Discord Badge" height=50px style="border-radius: 10px;"/>
   </a>
 <a href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL">
-  <img src="Facebook.png" alt="Facebook Badge" height=36px style="border-radius: 10px;"/>
+  <img src="Facebook.png" alt="Facebook Badge" height=50px style="border-radius: 10px;"/>
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=LootSpace369&theme=algolia&show_icons=true&hide_border=true" alt="github-stats" height=142px/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LootSpace369&layout=compact&theme=algolia&hide_border=true" alt="top-langs"/>
