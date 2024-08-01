@@ -23,9 +23,9 @@
   <br>
   <br>
 <a href="https://discord.com/invite/rFPWq8fV">
-  <img class="square bg-primary rounded-pill" src="Discord.png" alt="Discord Badge" height=50px style="border-radius: 10px;"/>
+  <img class="rounded-pill" src="Discord.png" alt="Discord Badge" height=50px style="border-radius: 10px;"/>
   </a>
-<a class="square bg-primary rounded-pill" href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL">
+<a class="rounded-pill" href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL">
   <img src="Facebook.png" alt="Facebook Badge" height=50px style="border-radius: 10px;"/>
 </a>
 
