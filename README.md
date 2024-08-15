@@ -16,8 +16,8 @@
   <img src="Facebook.png" alt="Facebook Badge" height=50px style="border-radius: 10px;"/>
 </a>
 
-![](https://github-readme-stats.vercel.app/api?username=Vasync&include_all_commits=true&count_private=true&hide=stars&show_icons=true&hide_rank=true&include_all_commits=true&line_height=28&title_color=white&text_color=0C5851&icon_color=0C5851&bg_color=80,FCFEFF,4D4D4D&hide_border=true&cache_seconds=14400&locale=en&border_radius=1&card_width=250px)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasync&layout=compact&title_color=white&text_color=0C5851&icon_color=0C5851&bg_color=80,FCFEFF,4D4D4D&hide_border=true&border_radius=1" alt="top-langs"/>
+![](https://github-readme-stats.vercel.app/api?username=Vasync&include_all_commits=true&count_private=true&hide=stars&show_icons=true&hide_rank=true&include_all_commits=true&line_height=28&title_color=white&text_color=0C5851&icon_color=0C5851&bg_color=80,FCFEFF,4D4D4D&hide_border=true&cache_seconds=14400&locale=en&border_radius=5&card_width=200px)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasync&layout=compact&title_color=white&text_color=0C5851&icon_color=0C5851&bg_color=80,FCFEFF,4D4D4D&hide_border=true&border_radius=5" alt="top-langs"/>
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Vasync&title_color=0C5851&theme=algolia&hide_border=true&border_radius=15" height=115px/>
 </div>
