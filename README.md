@@ -1,13 +1,3 @@
-<div align="center"><h1><img src="Crown.gif"> Hi, I’m @LootSpace369🌴<img src="hutao.gif" height=50px/></h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=LET+ME+COOK+FOR+YOU)](.)
-
-![Visitor Count](https://profile-counter.glitch.me/LootSpace369/count.svg)
-
-<img src="pocketmine.gif" width=400px />
-
-<h1><img src="boost.gif" height=30px>About me<img src="boost.gif" height=30px></h1>
-
 <a>
 • 👉 Vocative: he/him •<br>• 📫 How to reach me?:please message me •<br>• ⚡ Fun fact: don't ask me i don't know how to code🐧 •<br>• 🕑 Working time: all day •<br>
 </a>
